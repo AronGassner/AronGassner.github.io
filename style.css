@@ -1,7 +1,21 @@
 * {box-sizing:border-box}
 
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+  font-family: Arial;
+}
 
-.container {
+.video-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+  font-family: Arial;
+}
+
+.animation-container {
   max-width: 1000px;
   position: relative;
   margin: auto;
